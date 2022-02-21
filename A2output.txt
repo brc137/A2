@@ -1,0 +1,66 @@
+Taxpayer Name: Tim
+Ftax: 6280.0
+Stax: 963.98
+Ltax: 628.0
+Ptax: 1946.8
+Takehome is: 21581.22
+Taxpayer Name: Emma
+Ftax: 4542.0
+Stax: 697.197
+Ltax: 454.2
+Ptax: 1408.02
+Takehome is: 15608.582999999999
+Taxpayer Name: Robert
+Ftax: 0.0
+Stax: 206.7031
+Ltax: 134.66
+Ptax: 417.44599999999997
+Takehome is: 5974.1909000000005
+Taxpayer Name: Kayla
+Ftax: 8300.0
+Stax: 1274.05
+Ltax: 830.0
+Ptax: 2573.0
+Takehome is: 28522.95
+Taxpayer Name: Lisa
+Ftax: 1100.0
+Stax: 337.70000000000005
+Ltax: 220.0
+Ptax: 682.0
+Takehome is: 8660.3
+Taxpayer Name: Chungus
+Ftax: 16175.0
+Stax: 1986.2900000000002
+Ltax: 1294.0
+Ptax: 4011.4
+Takehome is: 41233.31
+Taxpayer Name: Mackenzie
+Ftax: 4060.0
+Stax: 623.21
+Ltax: 406.0
+Ptax: 1258.6
+Takehome is: 13952.19
+Taxpayer Name: Yan
+Ftax: 19125.0
+Stax: 2348.55
+Ltax: 1530.0
+Ptax: 4743.0
+Takehome is: 48753.45
+Taxpayer Name: Mandy
+Ftax: 7600.0
+Stax: 1166.6000000000001
+Ltax: 760.0
+Ptax: 2356.0
+Takehome is: 26117.4
+Taxpayer Name: Ryan
+Ftax: 1986.0
+Stax: 406.468
+Ltax: 264.8
+Ptax: 820.88
+Takehome is: 9761.852
+Taxpayer Name: Kim
+Ftax: 14000.0
+Stax: 1719.2
+Ltax: 1120.0
+Ptax: 3472.0
+Takehome is: 35688.8
